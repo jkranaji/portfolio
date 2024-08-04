@@ -299,7 +299,7 @@ margin-bottom: 30px;
 }
 
 .contact-right form{
-    width: 500px;
+    width: 340px;
 }
 form input,form textarea{
     width: 100%;
@@ -355,7 +355,7 @@ nav .fas{
         position: fixed;
         top: 0;
         right: -200px;
-        width: 200px;
+        width: 150px;
         height: 100vh;
         padding-top: 50px;
         z-index: 2;
